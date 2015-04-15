@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="tests.MobileDeviceTestingPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.MobileDeviceTestingPage -->
+      <class name="tests.CompanyPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.CompanyPage -->
+      <class name="tests.TestPlanWritingPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.TestPlanWritingPage -->
+      <class name="tests.PCSystemsLabPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.PCSystemsLabPage -->
+      <class name="tests.ServicesPullDown">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.ServicesPullDown -->
+      <class name="tests.WhyTestHeaderLink">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.WhyTestHeaderLink -->
+      <class name="tests.BlogHeaderLink">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.BlogHeaderLink -->
+      <class name="tests.ContactHeaderLink">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.ContactHeaderLink -->
+      <class name="tests.WhyTestPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.WhyTestPage -->
+      <class name="tests.ServicesHeaderLink">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.ServicesHeaderLink -->
+      <class name="tests.GetStartedContactUs">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.GetStartedContactUs -->
+      <class name="tests.UsabilityTestingPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.UsabilityTestingPage -->
+      <class name="tests.LoadPerformanceTestingPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.LoadPerformanceTestingPage -->
+      <class name="tests.TheLabsPullDown">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.TheLabsPullDown -->
+      <class name="tests.FunctionalityTestingPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.FunctionalityTestingPage -->
+      <class name="tests.ServicesPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.ServicesPage -->
+      <class name="tests.CompatibilityTestingPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.CompatibilityTestingPage -->
+      <class name="tests.TheLabsHeaderLink">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.TheLabsHeaderLink -->
+      <class name="tests.NavToHomepage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.NavToHomepage -->
+      <class name="tests.TheProcessPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.TheProcessPage -->
+      <class name="tests.MobileDeviceLabPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.MobileDeviceLabPage -->
+      <class name="tests.NextProjectLink">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.NextProjectLink -->
+      <class name="tests.TestimonialLinks">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.TestimonialLinks -->
+      <class name="tests.TheLabsPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.TheLabsPage -->
+      <class name="tests.TeamCompanyPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.TeamCompanyPage -->
+      <class name="tests.HomeLinks">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.HomeLinks -->
+      <class name="tests.CompanyHeaderLink">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.CompanyHeaderLink -->
+      <class name="tests.LocalizationTestPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.LocalizationTestPage -->
+      <class name="tests.WebsiteTestingPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.WebsiteTestingPage -->
+      <class name="tests.FAQ">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.FAQ -->
+      <class name="tests.TheLabsFooterLinks">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.TheLabsFooterLinks -->
+      <class name="tests.BlogPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.BlogPage -->
+      <class name="tests.ContactPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.ContactPage -->
+      <class name="tests.contactusBodyLink">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.contactusBodyLink -->
+      <class name="tests.ServicesBodyLinks">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.ServicesBodyLinks -->
+      <class name="tests.AccessibilityTestingPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.AccessibilityTestingPage -->
+      <class name="tests.AutomatedTestingPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.AutomatedTestingPage -->
+      <class name="tests.WhyTestPullDown">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.WhyTestPullDown -->
+      <class name="tests.CompanyPullDown">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.CompanyPullDown -->
+      <class name="tests.PrivacyPolicy">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.PrivacyPolicy -->
+      <class name="tests.ServicesFooterLinks">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.ServicesFooterLinks -->
+      <class name="tests.LaptopLabPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.LaptopLabPage -->
+      <class name="tests.MacSystemsLabPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.MacSystemsLabPage -->
+      <class name="tests.TheCompany">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.TheCompany -->
+      <class name="tests.VideoCardsLabPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.VideoCardsLabPage -->
+      <class name="tests.CareerCompanyPage">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.CareerCompanyPage -->
+      <class name="tests.WhyOutsource">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.WhyOutsource -->
+      <class name="tests.WhyHireBB">
+        <methods>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.WhyHireBB -->
+      <class name="tests.FollowOurBlog">
+        <methods>
+          <include name="checkHowQACanIncreaseYourROIReadMoreLinkFF"/>
+          <include name="checkProjectManagementTipsReadMoreLinkFF"/>
+          <include name="checkWhatShouldBeInYourTestPlanLinkFF"/>
+          <include name="checkWhatShouldBeInYourTestPlanReadMoreLinkFF"/>
+          <include name="quitBrowser"/>
+          <include name="checkHowQACanIncreaseYourROILinkFF"/>
+          <include name="checkProjectManagementTipsLinkFF"/>
+        </methods>
+      </class> <!-- tests.FollowOurBlog -->
+      <class name="tests.SocialFooterLinks">
+        <methods>
+          <include name="checkLinkedInFooterLinkFF"/>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- tests.SocialFooterLinks -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

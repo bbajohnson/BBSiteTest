@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="7" total="186" passed="179">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="2949172" started-at="2015-04-15T21:14:07Z" finished-at="2015-04-15T22:03:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2949172" started-at="2015-04-15T21:14:07Z" finished-at="2015-04-15T22:03:16Z">
+      <class name="tests.TheLabsPullDown">
+        <test-method status="PASS" signature="checkTheLabsPullDown_Laptops_FF()[pri:0, instance:tests.TheLabsPullDown@22a71081]" name="checkTheLabsPullDown_Laptops_FF" duration-ms="16286" started-at="2015-04-15T14:55:30Z" finished-at="2015-04-15T14:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsPullDown_Laptops_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsPullDown@22a71081]" name="quitBrowser" is-config="true" duration-ms="445" started-at="2015-04-15T14:55:47Z" finished-at="2015-04-15T14:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsPullDown_Mac_FF()[pri:0, instance:tests.TheLabsPullDown@22a71081]" name="checkTheLabsPullDown_Mac_FF" duration-ms="15640" started-at="2015-04-15T14:55:47Z" finished-at="2015-04-15T14:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsPullDown_Mac_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsPullDown@22a71081]" name="quitBrowser" is-config="true" duration-ms="446" started-at="2015-04-15T14:56:03Z" finished-at="2015-04-15T14:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsPullDown_MobileDevices_FF()[pri:0, instance:tests.TheLabsPullDown@22a71081]" name="checkTheLabsPullDown_MobileDevices_FF" duration-ms="14983" started-at="2015-04-15T14:56:03Z" finished-at="2015-04-15T14:56:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsPullDown_MobileDevices_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsPullDown@22a71081]" name="quitBrowser" is-config="true" duration-ms="457" started-at="2015-04-15T14:56:18Z" finished-at="2015-04-15T14:56:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsPullDown_PCSystems_FF()[pri:0, instance:tests.TheLabsPullDown@22a71081]" name="checkTheLabsPullDown_PCSystems_FF" duration-ms="15058" started-at="2015-04-15T14:56:19Z" finished-at="2015-04-15T14:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsPullDown_PCSystems_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsPullDown@22a71081]" name="quitBrowser" is-config="true" duration-ms="446" started-at="2015-04-15T14:56:34Z" finished-at="2015-04-15T14:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsPullDown_VideoCards_FF()[pri:0, instance:tests.TheLabsPullDown@22a71081]" name="checkTheLabsPullDown_VideoCards_FF" duration-ms="16602" started-at="2015-04-15T14:56:34Z" finished-at="2015-04-15T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsPullDown_VideoCards_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsPullDown@22a71081]" name="quitBrowser" is-config="true" duration-ms="452" started-at="2015-04-15T14:56:51Z" finished-at="2015-04-15T14:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.TheLabsPullDown -->
+      <class name="tests.FunctionalityTestingPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.FunctionalityTestingPage@3930015a]" name="checkBBBreadCrumb" duration-ms="15214" started-at="2015-04-15T14:24:32Z" finished-at="2015-04-15T14:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FunctionalityTestingPage@3930015a]" name="quitBrowser" is-config="true" duration-ms="548" started-at="2015-04-15T14:24:47Z" finished-at="2015-04-15T14:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkFunctionalityBreadCrumb()[pri:0, instance:tests.FunctionalityTestingPage@3930015a]" name="checkFunctionalityBreadCrumb" duration-ms="14909" started-at="2015-04-15T14:24:47Z" finished-at="2015-04-15T14:25:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFunctionalityBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FunctionalityTestingPage@3930015a]" name="quitBrowser" is-config="true" duration-ms="663" started-at="2015-04-15T14:25:02Z" finished-at="2015-04-15T14:25:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkFunctionalityPurposeAndMethod()[pri:0, instance:tests.FunctionalityTestingPage@3930015a]" name="checkFunctionalityPurposeAndMethod" duration-ms="15585" started-at="2015-04-15T14:25:03Z" finished-at="2015-04-15T14:25:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFunctionalityPurposeAndMethod -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FunctionalityTestingPage@3930015a]" name="quitBrowser" is-config="true" duration-ms="430" started-at="2015-04-15T14:25:19Z" finished-at="2015-04-15T14:25:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesBreadCrumb()[pri:0, instance:tests.FunctionalityTestingPage@3930015a]" name="checkServicesBreadCrumb" duration-ms="13230" started-at="2015-04-15T14:25:19Z" finished-at="2015-04-15T14:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FunctionalityTestingPage@3930015a]" name="quitBrowser" is-config="true" duration-ms="437" started-at="2015-04-15T14:25:32Z" finished-at="2015-04-15T14:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.FunctionalityTestingPage -->
+      <class name="tests.GetStartedContactUs">
+        <test-method status="PASS" signature="badEmailAddress()[pri:0, instance:tests.GetStartedContactUs@3ac42916]" name="badEmailAddress" duration-ms="17168" started-at="2015-04-15T14:25:33Z" finished-at="2015-04-15T14:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- badEmailAddress -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.GetStartedContactUs@3ac42916]" name="quitBrowser" is-config="true" duration-ms="430" started-at="2015-04-15T14:25:50Z" finished-at="2015-04-15T14:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="emptyTextFieldsTest()[pri:0, instance:tests.GetStartedContactUs@3ac42916]" name="emptyTextFieldsTest" duration-ms="15543" started-at="2015-04-15T14:25:50Z" finished-at="2015-04-15T14:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyTextFieldsTest -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.GetStartedContactUs@3ac42916]" name="quitBrowser" is-config="true" duration-ms="428" started-at="2015-04-15T14:26:06Z" finished-at="2015-04-15T14:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="javascriptTestInMessageField()[pri:0, instance:tests.GetStartedContactUs@3ac42916]" name="javascriptTestInMessageField" duration-ms="21203" started-at="2015-04-15T14:26:06Z" finished-at="2015-04-15T14:26:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javascriptTestInMessageField -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.GetStartedContactUs@3ac42916]" name="quitBrowser" is-config="true" duration-ms="356" started-at="2015-04-15T14:26:27Z" finished-at="2015-04-15T14:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="justNameFieldPopulated()[pri:0, instance:tests.GetStartedContactUs@3ac42916]" name="justNameFieldPopulated" duration-ms="17286" started-at="2015-04-15T14:26:28Z" finished-at="2015-04-15T14:26:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- justNameFieldPopulated -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.GetStartedContactUs@3ac42916]" name="quitBrowser" is-config="true" duration-ms="479" started-at="2015-04-15T14:26:45Z" finished-at="2015-04-15T14:26:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="textField()[pri:0, instance:tests.GetStartedContactUs@3ac42916]" name="textField" duration-ms="14911" started-at="2015-04-15T14:26:46Z" finished-at="2015-04-15T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textField -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.GetStartedContactUs@3ac42916]" name="quitBrowser" is-config="true" duration-ms="420" started-at="2015-04-15T14:27:00Z" finished-at="2015-04-15T14:27:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.GetStartedContactUs -->
+      <class name="tests.TheLabsFooterLinks">
+        <test-method status="PASS" signature="checkLaptopsFooterLinkFF()[pri:0, instance:tests.TheLabsFooterLinks@73035e27]" name="checkLaptopsFooterLinkFF" duration-ms="16759" started-at="2015-04-15T14:52:08Z" finished-at="2015-04-15T14:52:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLaptopsFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsFooterLinks@73035e27]" name="quitBrowser" is-config="true" duration-ms="460" started-at="2015-04-15T14:52:24Z" finished-at="2015-04-15T14:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkMacSystemsFooterLinkFF()[pri:0, instance:tests.TheLabsFooterLinks@73035e27]" name="checkMacSystemsFooterLinkFF" duration-ms="14957" started-at="2015-04-15T14:52:25Z" finished-at="2015-04-15T14:52:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMacSystemsFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsFooterLinks@73035e27]" name="quitBrowser" is-config="true" duration-ms="461" started-at="2015-04-15T14:52:40Z" finished-at="2015-04-15T14:52:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkMobileDevicesLabsFooterLinkFF()[pri:0, instance:tests.TheLabsFooterLinks@73035e27]" name="checkMobileDevicesLabsFooterLinkFF" duration-ms="15908" started-at="2015-04-15T14:52:40Z" finished-at="2015-04-15T14:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMobileDevicesLabsFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsFooterLinks@73035e27]" name="quitBrowser" is-config="true" duration-ms="440" started-at="2015-04-15T14:52:56Z" finished-at="2015-04-15T14:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkPCSystemsFooterLinkFF()[pri:0, instance:tests.TheLabsFooterLinks@73035e27]" name="checkPCSystemsFooterLinkFF" duration-ms="15954" started-at="2015-04-15T14:52:57Z" finished-at="2015-04-15T14:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPCSystemsFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsFooterLinks@73035e27]" name="quitBrowser" is-config="true" duration-ms="469" started-at="2015-04-15T14:53:13Z" finished-at="2015-04-15T14:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkVideoCardsFooterLinkFF()[pri:0, instance:tests.TheLabsFooterLinks@73035e27]" name="checkVideoCardsFooterLinkFF" duration-ms="14872" started-at="2015-04-15T14:53:13Z" finished-at="2015-04-15T14:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVideoCardsFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsFooterLinks@73035e27]" name="quitBrowser" is-config="true" duration-ms="458" started-at="2015-04-15T14:53:28Z" finished-at="2015-04-15T14:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.TheLabsFooterLinks -->
+      <class name="tests.FAQ">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.FAQ@f5f2bb7]" name="checkBBBreadCrumb" duration-ms="15095" started-at="2015-04-15T14:22:07Z" finished-at="2015-04-15T14:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FAQ@f5f2bb7]" name="quitBrowser" is-config="true" duration-ms="552" started-at="2015-04-15T14:22:22Z" finished-at="2015-04-15T14:22:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWhyTestBreadCrumb()[pri:0, instance:tests.FAQ@f5f2bb7]" name="checkWhyTestBreadCrumb" duration-ms="15424" started-at="2015-04-15T14:22:23Z" finished-at="2015-04-15T14:22:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhyTestBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FAQ@f5f2bb7]" name="quitBrowser" is-config="true" duration-ms="422" started-at="2015-04-15T14:22:38Z" finished-at="2015-04-15T14:22:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.FAQ -->
+      <class name="tests.MobileDeviceTestingPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.MobileDeviceTestingPage@4f4a7090]" name="checkBBBreadCrumb" duration-ms="14987" started-at="2015-04-15T14:32:53Z" finished-at="2015-04-15T14:33:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceTestingPage@4f4a7090]" name="quitBrowser" is-config="true" duration-ms="524" started-at="2015-04-15T14:33:08Z" finished-at="2015-04-15T14:33:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkMobileDeviceBodyLink()[pri:0, instance:tests.MobileDeviceTestingPage@4f4a7090]" name="checkMobileDeviceBodyLink" duration-ms="14131" started-at="2015-04-15T14:33:08Z" finished-at="2015-04-15T14:33:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMobileDeviceBodyLink -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceTestingPage@4f4a7090]" name="quitBrowser" is-config="true" duration-ms="438" started-at="2015-04-15T14:33:22Z" finished-at="2015-04-15T14:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesBreadCrumb()[pri:0, instance:tests.MobileDeviceTestingPage@4f4a7090]" name="checkServicesBreadCrumb" duration-ms="15472" started-at="2015-04-15T14:33:23Z" finished-at="2015-04-15T14:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceTestingPage@4f4a7090]" name="quitBrowser" is-config="true" duration-ms="423" started-at="2015-04-15T14:33:38Z" finished-at="2015-04-15T14:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWebsitePurposeAndMethod()[pri:0, instance:tests.MobileDeviceTestingPage@4f4a7090]" name="checkWebsitePurposeAndMethod" duration-ms="13738" started-at="2015-04-15T14:33:39Z" finished-at="2015-04-15T14:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWebsitePurposeAndMethod -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceTestingPage@4f4a7090]" name="quitBrowser" is-config="true" duration-ms="528" started-at="2015-04-15T14:33:53Z" finished-at="2015-04-15T14:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWebsiteTestingBreadCrumb()[pri:0, instance:tests.MobileDeviceTestingPage@4f4a7090]" name="checkWebsiteTestingBreadCrumb" duration-ms="14827" started-at="2015-04-15T14:33:53Z" finished-at="2015-04-15T14:34:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWebsiteTestingBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceTestingPage@4f4a7090]" name="quitBrowser" is-config="true" duration-ms="512" started-at="2015-04-15T14:34:08Z" finished-at="2015-04-15T14:34:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.MobileDeviceTestingPage -->
+      <class name="tests.TheLabsHeaderLink">
+        <test-method status="PASS" signature="checkTheLabsHeaderLinkChrome()[pri:0, instance:tests.TheLabsHeaderLink@1ff8b8f]" name="checkTheLabsHeaderLinkChrome" duration-ms="10285" started-at="2015-04-15T14:53:28Z" finished-at="2015-04-15T14:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsHeaderLinkChrome -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsHeaderLink@1ff8b8f]" name="quitBrowser" is-config="true" duration-ms="1236" started-at="2015-04-15T14:53:39Z" finished-at="2015-04-15T14:53:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsHeaderLinkFF()[pri:0, instance:tests.TheLabsHeaderLink@1ff8b8f]" name="checkTheLabsHeaderLinkFF" duration-ms="15364" started-at="2015-04-15T14:53:40Z" finished-at="2015-04-15T14:53:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsHeaderLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsHeaderLink@1ff8b8f]" name="quitBrowser" is-config="true" duration-ms="457" started-at="2015-04-15T14:53:55Z" finished-at="2015-04-15T14:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.TheLabsHeaderLink -->
+      <class name="tests.SocialFooterLinks">
+        <test-method status="PASS" signature="checkFacebookFooterLinkFF()[pri:0, instance:tests.SocialFooterLinks@233c0b17]" name="checkFacebookFooterLinkFF" duration-ms="21784" started-at="2015-04-15T14:46:44Z" finished-at="2015-04-15T14:47:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFacebookFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.SocialFooterLinks@233c0b17]" name="quitBrowser" is-config="true" duration-ms="658" started-at="2015-04-15T14:47:06Z" finished-at="2015-04-15T14:47:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkGooglePlusFooterLinkFF()[pri:0, instance:tests.SocialFooterLinks@233c0b17]" name="checkGooglePlusFooterLinkFF" duration-ms="18178" started-at="2015-04-15T14:47:07Z" finished-at="2015-04-15T14:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkGooglePlusFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.SocialFooterLinks@233c0b17]" name="quitBrowser" is-config="true" duration-ms="692" started-at="2015-04-15T14:47:25Z" finished-at="2015-04-15T14:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="FAIL" signature="checkLinkedInFooterLinkFF()[pri:0, instance:tests.SocialFooterLinks@233c0b17]" name="checkLinkedInFooterLinkFF" duration-ms="16856" started-at="2015-04-15T14:47:25Z" finished-at="2015-04-15T14:47:42Z">
+          <exception class="org.junit.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<...inkedin.com/company/[1270191]> but was:<...inkedin.com/company/[beta-breakers]>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.junit.ComparisonFailure: expected:<...inkedin.com/company/[1270191]> but was:<...inkedin.com/company/[beta-breakers]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tests.SocialFooterLinks.checkLinkedInFooterLinkFF(SocialFooterLinks.java:102)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at tests.Start.main(Start.java:65)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.junit.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinkedInFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.SocialFooterLinks@233c0b17]" name="quitBrowser" is-config="true" duration-ms="575" started-at="2015-04-15T14:47:42Z" finished-at="2015-04-15T14:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTwitterFooterLinkFF()[pri:0, instance:tests.SocialFooterLinks@233c0b17]" name="checkTwitterFooterLinkFF" duration-ms="16051" started-at="2015-04-15T14:47:43Z" finished-at="2015-04-15T14:47:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTwitterFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.SocialFooterLinks@233c0b17]" name="quitBrowser" is-config="true" duration-ms="575" started-at="2015-04-15T14:47:59Z" finished-at="2015-04-15T14:47:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.SocialFooterLinks -->
+      <class name="tests.ContactHeaderLink">
+        <test-method status="PASS" signature="checkContactHeaderLinkChrome()[pri:0, instance:tests.ContactHeaderLink@17ed40e0]" name="checkContactHeaderLinkChrome" duration-ms="10736" started-at="2015-04-15T14:21:22Z" finished-at="2015-04-15T14:21:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContactHeaderLinkChrome -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ContactHeaderLink@17ed40e0]" name="quitBrowser" is-config="true" duration-ms="1267" started-at="2015-04-15T14:21:33Z" finished-at="2015-04-15T14:21:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkContactHeaderLinkFF()[pri:0, instance:tests.ContactHeaderLink@17ed40e0]" name="checkContactHeaderLinkFF" duration-ms="16689" started-at="2015-04-15T14:21:34Z" finished-at="2015-04-15T14:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContactHeaderLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ContactHeaderLink@17ed40e0]" name="quitBrowser" is-config="true" duration-ms="451" started-at="2015-04-15T14:21:51Z" finished-at="2015-04-15T14:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.ContactHeaderLink -->
+      <class name="tests.WebsiteTestingPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.WebsiteTestingPage@13b6d03]" name="checkBBBreadCrumb" duration-ms="16048" started-at="2015-04-15T14:59:02Z" finished-at="2015-04-15T14:59:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WebsiteTestingPage@13b6d03]" name="quitBrowser" is-config="true" duration-ms="449" started-at="2015-04-15T14:59:18Z" finished-at="2015-04-15T14:59:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesBreadCrumb()[pri:0, instance:tests.WebsiteTestingPage@13b6d03]" name="checkServicesBreadCrumb" duration-ms="16953" started-at="2015-04-15T14:59:19Z" finished-at="2015-04-15T14:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WebsiteTestingPage@13b6d03]" name="quitBrowser" is-config="true" duration-ms="446" started-at="2015-04-15T14:59:36Z" finished-at="2015-04-15T14:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWebsitePurposeAndMethod()[pri:0, instance:tests.WebsiteTestingPage@13b6d03]" name="checkWebsitePurposeAndMethod" duration-ms="16030" started-at="2015-04-15T14:59:36Z" finished-at="2015-04-15T14:59:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWebsitePurposeAndMethod -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WebsiteTestingPage@13b6d03]" name="quitBrowser" is-config="true" duration-ms="431" started-at="2015-04-15T14:59:52Z" finished-at="2015-04-15T14:59:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWebsiteTestingBreadCrumb()[pri:0, instance:tests.WebsiteTestingPage@13b6d03]" name="checkWebsiteTestingBreadCrumb" duration-ms="15192" started-at="2015-04-15T14:59:52Z" finished-at="2015-04-15T15:00:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWebsiteTestingBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WebsiteTestingPage@13b6d03]" name="quitBrowser" is-config="true" duration-ms="427" started-at="2015-04-15T15:00:08Z" finished-at="2015-04-15T15:00:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.WebsiteTestingPage -->
+      <class name="tests.TeamCompanyPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.TeamCompanyPage@5f150435]" name="checkBBBreadCrumb" duration-ms="15323" started-at="2015-04-15T14:47:59Z" finished-at="2015-04-15T14:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TeamCompanyPage@5f150435]" name="quitBrowser" is-config="true" duration-ms="446" started-at="2015-04-15T14:48:15Z" finished-at="2015-04-15T14:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsBreadCrumb()[pri:0, instance:tests.TeamCompanyPage@5f150435]" name="checkTheLabsBreadCrumb" duration-ms="15544" started-at="2015-04-15T14:48:15Z" finished-at="2015-04-15T14:48:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TeamCompanyPage@5f150435]" name="quitBrowser" is-config="true" duration-ms="437" started-at="2015-04-15T14:48:31Z" finished-at="2015-04-15T14:48:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.TeamCompanyPage -->
+      <class name="tests.ServicesBodyLinks">
+        <test-method status="PASS" signature="checkCompatibilityIconLinkFF()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="checkCompatibilityIconLinkFF" duration-ms="15647" started-at="2015-04-15T14:35:56Z" finished-at="2015-04-15T14:36:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCompatibilityIconLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="quitBrowser" is-config="true" duration-ms="481" started-at="2015-04-15T14:36:12Z" finished-at="2015-04-15T14:36:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkCompatibilityReadMoreLinkFF()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="checkCompatibilityReadMoreLinkFF" duration-ms="15087" started-at="2015-04-15T14:36:12Z" finished-at="2015-04-15T14:36:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCompatibilityReadMoreLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="quitBrowser" is-config="true" duration-ms="480" started-at="2015-04-15T14:36:27Z" finished-at="2015-04-15T14:36:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkFunctionalityIconLinkFF()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="checkFunctionalityIconLinkFF" duration-ms="15368" started-at="2015-04-15T14:36:28Z" finished-at="2015-04-15T14:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFunctionalityIconLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="quitBrowser" is-config="true" duration-ms="434" started-at="2015-04-15T14:36:43Z" finished-at="2015-04-15T14:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkFunctionalityReadMoreLinkFF()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="checkFunctionalityReadMoreLinkFF" duration-ms="14648" started-at="2015-04-15T14:36:43Z" finished-at="2015-04-15T14:36:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFunctionalityReadMoreLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="quitBrowser" is-config="true" duration-ms="409" started-at="2015-04-15T14:36:58Z" finished-at="2015-04-15T14:36:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkMobileTestingIconLinkFF()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="checkMobileTestingIconLinkFF" duration-ms="14483" started-at="2015-04-15T14:36:59Z" finished-at="2015-04-15T14:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMobileTestingIconLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="quitBrowser" is-config="true" duration-ms="573" started-at="2015-04-15T14:37:13Z" finished-at="2015-04-15T14:37:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkMobileTestingReadMoreLinkFF()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="checkMobileTestingReadMoreLinkFF" duration-ms="14019" started-at="2015-04-15T14:37:14Z" finished-at="2015-04-15T14:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMobileTestingReadMoreLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="quitBrowser" is-config="true" duration-ms="421" started-at="2015-04-15T14:37:28Z" finished-at="2015-04-15T14:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWebsiteTestingIconLinkFF()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="checkWebsiteTestingIconLinkFF" duration-ms="15244" started-at="2015-04-15T14:37:28Z" finished-at="2015-04-15T14:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWebsiteTestingIconLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="quitBrowser" is-config="true" duration-ms="488" started-at="2015-04-15T14:37:43Z" finished-at="2015-04-15T14:37:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWebsiteTestingReadMoreLinkFF()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="checkWebsiteTestingReadMoreLinkFF" duration-ms="14763" started-at="2015-04-15T14:37:44Z" finished-at="2015-04-15T14:37:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWebsiteTestingReadMoreLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesBodyLinks@21a06946]" name="quitBrowser" is-config="true" duration-ms="475" started-at="2015-04-15T14:37:59Z" finished-at="2015-04-15T14:37:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.ServicesBodyLinks -->
+      <class name="tests.PCSystemsLabPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.PCSystemsLabPage@763d9750]" name="checkBBBreadCrumb" duration-ms="15750" started-at="2015-04-15T14:34:57Z" finished-at="2015-04-15T14:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.PCSystemsLabPage@763d9750]" name="quitBrowser" is-config="true" duration-ms="456" started-at="2015-04-15T14:35:12Z" finished-at="2015-04-15T14:35:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsBreadCrumb()[pri:0, instance:tests.PCSystemsLabPage@763d9750]" name="checkTheLabsBreadCrumb" duration-ms="15041" started-at="2015-04-15T14:35:13Z" finished-at="2015-04-15T14:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.PCSystemsLabPage@763d9750]" name="quitBrowser" is-config="true" duration-ms="430" started-at="2015-04-15T14:35:28Z" finished-at="2015-04-15T14:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.PCSystemsLabPage -->
+      <class name="tests.NextProjectLink">
+        <test-method status="PASS" signature="checkNextProjectLinkChrome()[pri:0, instance:tests.NextProjectLink@c39f790]" name="checkNextProjectLinkChrome" duration-ms="10710" started-at="2015-04-15T14:34:29Z" finished-at="2015-04-15T14:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNextProjectLinkChrome -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.NextProjectLink@c39f790]" name="quitBrowser" is-config="true" duration-ms="1229" started-at="2015-04-15T14:34:40Z" finished-at="2015-04-15T14:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkNextProjectLinkFF()[pri:0, instance:tests.NextProjectLink@c39f790]" name="checkNextProjectLinkFF" duration-ms="15329" started-at="2015-04-15T14:34:41Z" finished-at="2015-04-15T14:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNextProjectLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.NextProjectLink@c39f790]" name="quitBrowser" is-config="true" duration-ms="457" started-at="2015-04-15T14:34:56Z" finished-at="2015-04-15T14:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.NextProjectLink -->
+      <class name="tests.FollowOurBlog">
+        <test-method status="PASS" signature="checkFollowOurBlogLinkFF()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="checkFollowOurBlogLinkFF" duration-ms="15501" started-at="2015-04-15T14:22:38Z" finished-at="2015-04-15T14:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFollowOurBlogLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="quitBrowser" is-config="true" duration-ms="450" started-at="2015-04-15T14:22:54Z" finished-at="2015-04-15T14:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="FAIL" signature="checkHowQACanIncreaseYourROILinkFF()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="checkHowQACanIncreaseYourROILinkFF" duration-ms="14892" started-at="2015-04-15T14:22:54Z" finished-at="2015-04-15T14:23:09Z">
+          <exception class="org.junit.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<[How Quality Assurance Can Increase Your ROI] | Beta Breakers> but was:<[Project Management Tips] | Beta Breakers>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.junit.ComparisonFailure: expected:<[How Quality Assurance Can Increase Your ROI] | Beta Breakers> but was:<[Project Management Tips] | Beta Breakers>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tests.FollowOurBlog.checkHowQACanIncreaseYourROILinkFF(FollowOurBlog.java:103)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at tests.Start.main(Start.java:65)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.junit.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHowQACanIncreaseYourROILinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="quitBrowser" is-config="true" duration-ms="524" started-at="2015-04-15T14:23:09Z" finished-at="2015-04-15T14:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="FAIL" signature="checkHowQACanIncreaseYourROIReadMoreLinkFF()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="checkHowQACanIncreaseYourROIReadMoreLinkFF" duration-ms="16886" started-at="2015-04-15T14:23:10Z" finished-at="2015-04-15T14:23:27Z">
+          <exception class="org.junit.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<[How Quality Assurance Can Increase Your ROI] | Beta Breakers> but was:<[Project Management Tips] | Beta Breakers>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.junit.ComparisonFailure: expected:<[How Quality Assurance Can Increase Your ROI] | Beta Breakers> but was:<[Project Management Tips] | Beta Breakers>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tests.FollowOurBlog.checkHowQACanIncreaseYourROIReadMoreLinkFF(FollowOurBlog.java:116)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at tests.Start.main(Start.java:65)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.junit.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHowQACanIncreaseYourROIReadMoreLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="quitBrowser" is-config="true" duration-ms="466" started-at="2015-04-15T14:23:27Z" finished-at="2015-04-15T14:23:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="FAIL" signature="checkProjectManagementTipsLinkFF()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="checkProjectManagementTipsLinkFF" duration-ms="15867" started-at="2015-04-15T14:23:27Z" finished-at="2015-04-15T14:23:43Z">
+          <exception class="org.junit.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<[Project Management Tips] | Beta Breakers> but was:<[The Role of the Testing Lab] | Beta Breakers>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.junit.ComparisonFailure: expected:<[Project Management Tips] | Beta Breakers> but was:<[The Role of the Testing Lab] | Beta Breakers>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tests.FollowOurBlog.checkProjectManagementTipsLinkFF(FollowOurBlog.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at tests.Start.main(Start.java:65)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.junit.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkProjectManagementTipsLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="quitBrowser" is-config="true" duration-ms="447" started-at="2015-04-15T14:23:43Z" finished-at="2015-04-15T14:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="FAIL" signature="checkProjectManagementTipsReadMoreLinkFF()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="checkProjectManagementTipsReadMoreLinkFF" duration-ms="16260" started-at="2015-04-15T14:23:44Z" finished-at="2015-04-15T14:24:00Z">
+          <exception class="org.junit.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<[Project Management Tips] | Beta Breakers> but was:<[The Role of the Testing Lab] | Beta Breakers>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.junit.ComparisonFailure: expected:<[Project Management Tips] | Beta Breakers> but was:<[The Role of the Testing Lab] | Beta Breakers>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tests.FollowOurBlog.checkProjectManagementTipsReadMoreLinkFF(FollowOurBlog.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at tests.Start.main(Start.java:65)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.junit.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkProjectManagementTipsReadMoreLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="quitBrowser" is-config="true" duration-ms="457" started-at="2015-04-15T14:24:00Z" finished-at="2015-04-15T14:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="FAIL" signature="checkWhatShouldBeInYourTestPlanLinkFF()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="checkWhatShouldBeInYourTestPlanLinkFF" duration-ms="15722" started-at="2015-04-15T14:24:00Z" finished-at="2015-04-15T14:24:16Z">
+          <exception class="org.junit.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<[What Should be in Your Test Plan?] | Beta Breakers> but was:<[The Importance of Quality Assurance] | Beta Breakers>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.junit.ComparisonFailure: expected:<[What Should be in Your Test Plan?] | Beta Breakers> but was:<[The Importance of Quality Assurance] | Beta Breakers>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tests.FollowOurBlog.checkWhatShouldBeInYourTestPlanLinkFF(FollowOurBlog.java:77)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at tests.Start.main(Start.java:65)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.junit.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhatShouldBeInYourTestPlanLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="quitBrowser" is-config="true" duration-ms="458" started-at="2015-04-15T14:24:16Z" finished-at="2015-04-15T14:24:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="FAIL" signature="checkWhatShouldBeInYourTestPlanReadMoreLinkFF()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="checkWhatShouldBeInYourTestPlanReadMoreLinkFF" duration-ms="14743" started-at="2015-04-15T14:24:16Z" finished-at="2015-04-15T14:24:31Z">
+          <exception class="org.junit.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<[What Should be in Your Test Plan?] | Beta Breakers> but was:<[The Importance of Quality Assurance] | Beta Breakers>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.junit.ComparisonFailure: expected:<[What Should be in Your Test Plan?] | Beta Breakers> but was:<[The Importance of Quality Assurance] | Beta Breakers>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tests.FollowOurBlog.checkWhatShouldBeInYourTestPlanReadMoreLinkFF(FollowOurBlog.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at tests.Start.main(Start.java:65)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.junit.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhatShouldBeInYourTestPlanReadMoreLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.FollowOurBlog@61a52fbd]" name="quitBrowser" is-config="true" duration-ms="454" started-at="2015-04-15T14:24:31Z" finished-at="2015-04-15T14:24:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.FollowOurBlog -->
+      <class name="tests.LocalizationTestPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.LocalizationTestPage@282ba1e]" name="checkBBBreadCrumb" duration-ms="14733" started-at="2015-04-15T14:29:28Z" finished-at="2015-04-15T14:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LocalizationTestPage@282ba1e]" name="quitBrowser" is-config="true" duration-ms="485" started-at="2015-04-15T14:29:42Z" finished-at="2015-04-15T14:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkLocalizationPurposeAndMethod()[pri:0, instance:tests.LocalizationTestPage@282ba1e]" name="checkLocalizationPurposeAndMethod" duration-ms="15042" started-at="2015-04-15T14:29:43Z" finished-at="2015-04-15T14:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLocalizationPurposeAndMethod -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LocalizationTestPage@282ba1e]" name="quitBrowser" is-config="true" duration-ms="888" started-at="2015-04-15T14:29:58Z" finished-at="2015-04-15T14:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkLocalizationTestingBreadCrumb()[pri:0, instance:tests.LocalizationTestPage@282ba1e]" name="checkLocalizationTestingBreadCrumb" duration-ms="14897" started-at="2015-04-15T14:29:59Z" finished-at="2015-04-15T14:30:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLocalizationTestingBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LocalizationTestPage@282ba1e]" name="quitBrowser" is-config="true" duration-ms="445" started-at="2015-04-15T14:30:14Z" finished-at="2015-04-15T14:30:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesBreadCrumb()[pri:0, instance:tests.LocalizationTestPage@282ba1e]" name="checkServicesBreadCrumb" duration-ms="16746" started-at="2015-04-15T14:30:14Z" finished-at="2015-04-15T14:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LocalizationTestPage@282ba1e]" name="quitBrowser" is-config="true" duration-ms="472" started-at="2015-04-15T14:30:31Z" finished-at="2015-04-15T14:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.LocalizationTestPage -->
+      <class name="tests.CompanyHeaderLink">
+        <test-method status="PASS" signature="checkCompanyHeaderLinkChrome()[pri:0, instance:tests.CompanyHeaderLink@75412c2f]" name="checkCompanyHeaderLinkChrome" duration-ms="10836" started-at="2015-04-15T14:18:30Z" finished-at="2015-04-15T14:18:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCompanyHeaderLinkChrome -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CompanyHeaderLink@75412c2f]" name="quitBrowser" is-config="true" duration-ms="1236" started-at="2015-04-15T14:18:41Z" finished-at="2015-04-15T14:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkCompanyHeaderLinkFF()[pri:0, instance:tests.CompanyHeaderLink@75412c2f]" name="checkCompanyHeaderLinkFF" duration-ms="15226" started-at="2015-04-15T14:18:42Z" finished-at="2015-04-15T14:18:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCompanyHeaderLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CompanyHeaderLink@75412c2f]" name="quitBrowser" is-config="true" duration-ms="465" started-at="2015-04-15T14:18:57Z" finished-at="2015-04-15T14:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.CompanyHeaderLink -->
+      <class name="tests.MobileDeviceLabPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="checkBBBreadCrumb" duration-ms="15844" started-at="2015-04-15T14:31:03Z" finished-at="2015-04-15T14:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="quitBrowser" is-config="true" duration-ms="453" started-at="2015-04-15T14:31:19Z" finished-at="2015-04-15T14:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkLaptopLink()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="checkLaptopLink" duration-ms="14925" started-at="2015-04-15T14:31:19Z" finished-at="2015-04-15T14:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLaptopLink -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="quitBrowser" is-config="true" duration-ms="436" started-at="2015-04-15T14:31:34Z" finished-at="2015-04-15T14:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkMacSystemLink()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="checkMacSystemLink" duration-ms="15184" started-at="2015-04-15T14:31:34Z" finished-at="2015-04-15T14:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMacSystemLink -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="quitBrowser" is-config="true" duration-ms="402" started-at="2015-04-15T14:31:50Z" finished-at="2015-04-15T14:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkMobileDevicesLink()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="checkMobileDevicesLink" duration-ms="14969" started-at="2015-04-15T14:31:50Z" finished-at="2015-04-15T14:32:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMobileDevicesLink -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="quitBrowser" is-config="true" duration-ms="444" started-at="2015-04-15T14:32:05Z" finished-at="2015-04-15T14:32:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkPCSystemsLink()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="checkPCSystemsLink" duration-ms="15395" started-at="2015-04-15T14:32:05Z" finished-at="2015-04-15T14:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPCSystemsLink -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="quitBrowser" is-config="true" duration-ms="543" started-at="2015-04-15T14:32:21Z" finished-at="2015-04-15T14:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsBreadCrumb()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="checkTheLabsBreadCrumb" duration-ms="15038" started-at="2015-04-15T14:32:21Z" finished-at="2015-04-15T14:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="quitBrowser" is-config="true" duration-ms="601" started-at="2015-04-15T14:32:36Z" finished-at="2015-04-15T14:32:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkVideoCardsLink()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="checkVideoCardsLink" duration-ms="15412" started-at="2015-04-15T14:32:37Z" finished-at="2015-04-15T14:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVideoCardsLink -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MobileDeviceLabPage@224aed64]" name="quitBrowser" is-config="true" duration-ms="431" started-at="2015-04-15T14:32:52Z" finished-at="2015-04-15T14:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.MobileDeviceLabPage -->
+      <class name="tests.CompatibilityTestingPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.CompatibilityTestingPage@1bc6a36e]" name="checkBBBreadCrumb" duration-ms="15064" started-at="2015-04-15T14:20:03Z" finished-at="2015-04-15T14:20:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CompatibilityTestingPage@1bc6a36e]" name="quitBrowser" is-config="true" duration-ms="519" started-at="2015-04-15T14:20:18Z" finished-at="2015-04-15T14:20:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkCompatibilityBreadCrumb()[pri:0, instance:tests.CompatibilityTestingPage@1bc6a36e]" name="checkCompatibilityBreadCrumb" duration-ms="16650" started-at="2015-04-15T14:20:19Z" finished-at="2015-04-15T14:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCompatibilityBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CompatibilityTestingPage@1bc6a36e]" name="quitBrowser" is-config="true" duration-ms="545" started-at="2015-04-15T14:20:36Z" finished-at="2015-04-15T14:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkCompatibilityPurposeAndMethod()[pri:0, instance:tests.CompatibilityTestingPage@1bc6a36e]" name="checkCompatibilityPurposeAndMethod" duration-ms="13983" started-at="2015-04-15T14:20:36Z" finished-at="2015-04-15T14:20:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCompatibilityPurposeAndMethod -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CompatibilityTestingPage@1bc6a36e]" name="quitBrowser" is-config="true" duration-ms="454" started-at="2015-04-15T14:20:50Z" finished-at="2015-04-15T14:20:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkContactUsLink()[pri:0, instance:tests.CompatibilityTestingPage@1bc6a36e]" name="checkContactUsLink" duration-ms="15411" started-at="2015-04-15T14:20:51Z" finished-at="2015-04-15T14:21:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContactUsLink -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CompatibilityTestingPage@1bc6a36e]" name="quitBrowser" is-config="true" duration-ms="429" started-at="2015-04-15T14:21:06Z" finished-at="2015-04-15T14:21:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesBreadCrumb()[pri:0, instance:tests.CompatibilityTestingPage@1bc6a36e]" name="checkServicesBreadCrumb" duration-ms="15364" started-at="2015-04-15T14:21:06Z" finished-at="2015-04-15T14:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CompatibilityTestingPage@1bc6a36e]" name="quitBrowser" is-config="true" duration-ms="385" started-at="2015-04-15T14:21:22Z" finished-at="2015-04-15T14:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.CompatibilityTestingPage -->
+      <class name="tests.TestimonialLinks">
+        <test-method status="PASS" signature="checkCiscoTestimonialLinkFF()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="checkCiscoTestimonialLinkFF" duration-ms="13697" started-at="2015-04-15T14:49:33Z" finished-at="2015-04-15T14:49:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCiscoTestimonialLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="quitBrowser" is-config="true" duration-ms="443" started-at="2015-04-15T14:49:47Z" finished-at="2015-04-15T14:49:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkLeapFrogTestimonialLinkFF()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="checkLeapFrogTestimonialLinkFF" duration-ms="15775" started-at="2015-04-15T14:49:48Z" finished-at="2015-04-15T14:50:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLeapFrogTestimonialLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="quitBrowser" is-config="true" duration-ms="393" started-at="2015-04-15T14:50:03Z" finished-at="2015-04-15T14:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkOracleTestimonialLinkFF()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="checkOracleTestimonialLinkFF" duration-ms="15517" started-at="2015-04-15T14:50:04Z" finished-at="2015-04-15T14:50:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOracleTestimonialLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="quitBrowser" is-config="true" duration-ms="512" started-at="2015-04-15T14:50:19Z" finished-at="2015-04-15T14:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkScrippsTestimonialLinkFF()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="checkScrippsTestimonialLinkFF" duration-ms="14423" started-at="2015-04-15T14:50:20Z" finished-at="2015-04-15T14:50:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkScrippsTestimonialLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="quitBrowser" is-config="true" duration-ms="449" started-at="2015-04-15T14:50:34Z" finished-at="2015-04-15T14:50:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkSnapOnTestimonialLinkFF()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="checkSnapOnTestimonialLinkFF" duration-ms="15162" started-at="2015-04-15T14:50:35Z" finished-at="2015-04-15T14:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSnapOnTestimonialLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="quitBrowser" is-config="true" duration-ms="439" started-at="2015-04-15T14:50:50Z" finished-at="2015-04-15T14:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTrekTestimonialLinkFF()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="checkTrekTestimonialLinkFF" duration-ms="14578" started-at="2015-04-15T14:50:50Z" finished-at="2015-04-15T14:51:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTrekTestimonialLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TestimonialLinks@71e7a66b]" name="quitBrowser" is-config="true" duration-ms="444" started-at="2015-04-15T14:51:05Z" finished-at="2015-04-15T14:51:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.TestimonialLinks -->
+      <class name="tests.AutomatedTestingPage">
+        <test-method status="PASS" signature="checkAutomatedPurposeAndMethod()[pri:0, instance:tests.AutomatedTestingPage@326de728]" name="checkAutomatedPurposeAndMethod" duration-ms="15130" started-at="2015-04-15T14:15:14Z" finished-at="2015-04-15T14:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAutomatedPurposeAndMethod -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.AutomatedTestingPage@326de728]" name="quitBrowser" is-config="true" duration-ms="437" started-at="2015-04-15T14:15:29Z" finished-at="2015-04-15T14:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkAutomatedTestingBreadCrumb()[pri:0, instance:tests.AutomatedTestingPage@326de728]" name="checkAutomatedTestingBreadCrumb" duration-ms="15053" started-at="2015-04-15T14:15:29Z" finished-at="2015-04-15T14:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAutomatedTestingBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.AutomatedTestingPage@326de728]" name="quitBrowser" is-config="true" duration-ms="433" started-at="2015-04-15T14:15:44Z" finished-at="2015-04-15T14:15:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.AutomatedTestingPage@326de728]" name="checkBBBreadCrumb" duration-ms="15186" started-at="2015-04-15T14:15:45Z" finished-at="2015-04-15T14:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.AutomatedTestingPage@326de728]" name="quitBrowser" is-config="true" duration-ms="465" started-at="2015-04-15T14:16:00Z" finished-at="2015-04-15T14:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesBreadCrumb()[pri:0, instance:tests.AutomatedTestingPage@326de728]" name="checkServicesBreadCrumb" duration-ms="15378" started-at="2015-04-15T14:16:00Z" finished-at="2015-04-15T14:16:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.AutomatedTestingPage@326de728]" name="quitBrowser" is-config="true" duration-ms="440" started-at="2015-04-15T14:16:16Z" finished-at="2015-04-15T14:16:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.AutomatedTestingPage -->
+      <class name="tests.NavToHomepage">
+        <test-method status="PASS" signature="checkHomePageLoadChrome()[pri:0, instance:tests.NavToHomepage@387c703b]" name="checkHomePageLoadChrome" duration-ms="7703" started-at="2015-04-15T14:34:08Z" finished-at="2015-04-15T14:34:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHomePageLoadChrome -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.NavToHomepage@387c703b]" name="quitBrowser" is-config="true" duration-ms="1352" started-at="2015-04-15T14:34:16Z" finished-at="2015-04-15T14:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkHomePageLoadFF()[pri:0, instance:tests.NavToHomepage@387c703b]" name="checkHomePageLoadFF" duration-ms="11048" started-at="2015-04-15T14:34:17Z" finished-at="2015-04-15T14:34:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHomePageLoadFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.NavToHomepage@387c703b]" name="quitBrowser" is-config="true" duration-ms="428" started-at="2015-04-15T14:34:29Z" finished-at="2015-04-15T14:34:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.NavToHomepage -->
+      <class name="tests.ServicesPullDown">
+        <test-method status="PASS" signature="checkServicesPullDown_Accessibility_FF()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="checkServicesPullDown_Accessibility_FF" duration-ms="14380" started-at="2015-04-15T14:44:09Z" finished-at="2015-04-15T14:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesPullDown_Accessibility_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="quitBrowser" is-config="true" duration-ms="444" started-at="2015-04-15T14:44:24Z" finished-at="2015-04-15T14:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesPullDown_Automated_FF()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="checkServicesPullDown_Automated_FF" duration-ms="14524" started-at="2015-04-15T14:44:24Z" finished-at="2015-04-15T14:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesPullDown_Automated_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="quitBrowser" is-config="true" duration-ms="457" started-at="2015-04-15T14:44:39Z" finished-at="2015-04-15T14:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesPullDown_Compatibility_FF()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="checkServicesPullDown_Compatibility_FF" duration-ms="15381" started-at="2015-04-15T14:44:39Z" finished-at="2015-04-15T14:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesPullDown_Compatibility_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="quitBrowser" is-config="true" duration-ms="449" started-at="2015-04-15T14:44:54Z" finished-at="2015-04-15T14:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesPullDown_Functionality_FF()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="checkServicesPullDown_Functionality_FF" duration-ms="14857" started-at="2015-04-15T14:44:55Z" finished-at="2015-04-15T14:45:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesPullDown_Functionality_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="quitBrowser" is-config="true" duration-ms="447" started-at="2015-04-15T14:45:10Z" finished-at="2015-04-15T14:45:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesPullDown_LoadPerf_FF()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="checkServicesPullDown_LoadPerf_FF" duration-ms="15248" started-at="2015-04-15T14:45:10Z" finished-at="2015-04-15T14:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesPullDown_LoadPerf_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="quitBrowser" is-config="true" duration-ms="449" started-at="2015-04-15T14:45:25Z" finished-at="2015-04-15T14:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesPullDown_Localization_FF()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="checkServicesPullDown_Localization_FF" duration-ms="14723" started-at="2015-04-15T14:45:26Z" finished-at="2015-04-15T14:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesPullDown_Localization_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="quitBrowser" is-config="true" duration-ms="457" started-at="2015-04-15T14:45:41Z" finished-at="2015-04-15T14:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesPullDown_MobileDevice_FF()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="checkServicesPullDown_MobileDevice_FF" duration-ms="15832" started-at="2015-04-15T14:45:41Z" finished-at="2015-04-15T14:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesPullDown_MobileDevice_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="quitBrowser" is-config="true" duration-ms="454" started-at="2015-04-15T14:45:57Z" finished-at="2015-04-15T14:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesPullDown_TPWriting_FF()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="checkServicesPullDown_TPWriting_FF" duration-ms="15667" started-at="2015-04-15T14:45:57Z" finished-at="2015-04-15T14:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesPullDown_TPWriting_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="quitBrowser" is-config="true" duration-ms="452" started-at="2015-04-15T14:46:13Z" finished-at="2015-04-15T14:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesPullDown_Usability_FF()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="checkServicesPullDown_Usability_FF" duration-ms="14915" started-at="2015-04-15T14:46:13Z" finished-at="2015-04-15T14:46:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesPullDown_Usability_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="quitBrowser" is-config="true" duration-ms="441" started-at="2015-04-15T14:46:28Z" finished-at="2015-04-15T14:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesPullDown_WebsiteTesting_FF()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="checkServicesPullDown_WebsiteTesting_FF" duration-ms="14812" started-at="2015-04-15T14:46:29Z" finished-at="2015-04-15T14:46:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesPullDown_WebsiteTesting_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPullDown@5c0369c4]" name="quitBrowser" is-config="true" duration-ms="474" started-at="2015-04-15T14:46:44Z" finished-at="2015-04-15T14:46:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.ServicesPullDown -->
+      <class name="tests.HomeLinks">
+        <test-method status="PASS" signature="checkHomeLinkChrome()[pri:0, instance:tests.HomeLinks@50cbc42f]" name="checkHomeLinkChrome" duration-ms="10795" started-at="2015-04-15T14:27:01Z" finished-at="2015-04-15T14:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHomeLinkChrome -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.HomeLinks@50cbc42f]" name="quitBrowser" is-config="true" duration-ms="1235" started-at="2015-04-15T14:27:12Z" finished-at="2015-04-15T14:27:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkHomeLinkFF()[pri:0, instance:tests.HomeLinks@50cbc42f]" name="checkHomeLinkFF" duration-ms="15202" started-at="2015-04-15T14:27:13Z" finished-at="2015-04-15T14:27:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHomeLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.HomeLinks@50cbc42f]" name="quitBrowser" is-config="true" duration-ms="522" started-at="2015-04-15T14:27:28Z" finished-at="2015-04-15T14:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkLogoChrome()[pri:0, instance:tests.HomeLinks@50cbc42f]" name="checkLogoChrome" duration-ms="9476" started-at="2015-04-15T14:27:29Z" finished-at="2015-04-15T14:27:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogoChrome -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.HomeLinks@50cbc42f]" name="quitBrowser" is-config="true" duration-ms="1232" started-at="2015-04-15T14:27:38Z" finished-at="2015-04-15T14:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkLogoFF()[pri:0, instance:tests.HomeLinks@50cbc42f]" name="checkLogoFF" duration-ms="13860" started-at="2015-04-15T14:27:39Z" finished-at="2015-04-15T14:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogoFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.HomeLinks@50cbc42f]" name="quitBrowser" is-config="true" duration-ms="457" started-at="2015-04-15T14:27:53Z" finished-at="2015-04-15T14:27:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.HomeLinks -->
+      <class name="tests.ServicesHeaderLink">
+        <test-method status="PASS" signature="checkServicesHeaderLinkChrome()[pri:0, instance:tests.ServicesHeaderLink@31b7dea0]" name="checkServicesHeaderLinkChrome" duration-ms="11353" started-at="2015-04-15T14:40:48Z" finished-at="2015-04-15T14:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesHeaderLinkChrome -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesHeaderLink@31b7dea0]" name="quitBrowser" is-config="true" duration-ms="1280" started-at="2015-04-15T14:41:00Z" finished-at="2015-04-15T14:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesHeaderLinkFF()[pri:0, instance:tests.ServicesHeaderLink@31b7dea0]" name="checkServicesHeaderLinkFF" duration-ms="14460" started-at="2015-04-15T14:41:01Z" finished-at="2015-04-15T14:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesHeaderLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesHeaderLink@31b7dea0]" name="quitBrowser" is-config="true" duration-ms="456" started-at="2015-04-15T14:41:15Z" finished-at="2015-04-15T14:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.ServicesHeaderLink -->
+      <class name="tests.AccessibilityTestingPage">
+        <test-method status="PASS" signature="checkAccessibilityBreadCrumb()[pri:0, instance:tests.AccessibilityTestingPage@77f03bb1]" name="checkAccessibilityBreadCrumb" duration-ms="18020" started-at="2015-04-15T14:14:07Z" finished-at="2015-04-15T14:14:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAccessibilityBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.AccessibilityTestingPage@77f03bb1]" name="quitBrowser" is-config="true" duration-ms="458" started-at="2015-04-15T14:14:25Z" finished-at="2015-04-15T14:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkAccessibilityPurposeAndMethod()[pri:0, instance:tests.AccessibilityTestingPage@77f03bb1]" name="checkAccessibilityPurposeAndMethod" duration-ms="15807" started-at="2015-04-15T14:14:26Z" finished-at="2015-04-15T14:14:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAccessibilityPurposeAndMethod -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.AccessibilityTestingPage@77f03bb1]" name="quitBrowser" is-config="true" duration-ms="553" started-at="2015-04-15T14:14:41Z" finished-at="2015-04-15T14:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.AccessibilityTestingPage@77f03bb1]" name="checkBBBreadCrumb" duration-ms="15339" started-at="2015-04-15T14:14:42Z" finished-at="2015-04-15T14:14:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.AccessibilityTestingPage@77f03bb1]" name="quitBrowser" is-config="true" duration-ms="458" started-at="2015-04-15T14:14:57Z" finished-at="2015-04-15T14:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesBreadCrumb()[pri:0, instance:tests.AccessibilityTestingPage@77f03bb1]" name="checkServicesBreadCrumb" duration-ms="15488" started-at="2015-04-15T14:14:58Z" finished-at="2015-04-15T14:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.AccessibilityTestingPage@77f03bb1]" name="quitBrowser" is-config="true" duration-ms="435" started-at="2015-04-15T14:15:13Z" finished-at="2015-04-15T14:15:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.AccessibilityTestingPage -->
+      <class name="tests.MacSystemsLabPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.MacSystemsLabPage@4b6995df]" name="checkBBBreadCrumb" duration-ms="15267" started-at="2015-04-15T14:30:31Z" finished-at="2015-04-15T14:30:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MacSystemsLabPage@4b6995df]" name="quitBrowser" is-config="true" duration-ms="452" started-at="2015-04-15T14:30:47Z" finished-at="2015-04-15T14:30:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsBreadCrumb()[pri:0, instance:tests.MacSystemsLabPage@4b6995df]" name="checkTheLabsBreadCrumb" duration-ms="15118" started-at="2015-04-15T14:30:47Z" finished-at="2015-04-15T14:31:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.MacSystemsLabPage@4b6995df]" name="quitBrowser" is-config="true" duration-ms="518" started-at="2015-04-15T14:31:02Z" finished-at="2015-04-15T14:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.MacSystemsLabPage -->
+      <class name="tests.CompanyPage">
+        <test-method status="PASS" signature="checkBreadCrumb()[pri:0, instance:tests.CompanyPage@5fe5c6f]" name="checkBreadCrumb" duration-ms="17193" started-at="2015-04-15T14:18:58Z" finished-at="2015-04-15T14:19:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CompanyPage@5fe5c6f]" name="quitBrowser" is-config="true" duration-ms="455" started-at="2015-04-15T14:19:15Z" finished-at="2015-04-15T14:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.CompanyPage -->
+      <class name="tests.BlogPage">
+        <test-method status="PASS" signature="checkNextLink()[pri:0, instance:tests.BlogPage@64c64813]" name="checkNextLink" duration-ms="16322" started-at="2015-04-15T14:16:44Z" finished-at="2015-04-15T14:17:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNextLink -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.BlogPage@64c64813]" name="quitBrowser" is-config="true" duration-ms="435" started-at="2015-04-15T14:17:01Z" finished-at="2015-04-15T14:17:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkNumberedLinks()[pri:0, instance:tests.BlogPage@64c64813]" name="checkNumberedLinks" duration-ms="41507" started-at="2015-04-15T14:17:01Z" finished-at="2015-04-15T14:17:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNumberedLinks -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.BlogPage@64c64813]" name="quitBrowser" is-config="true" duration-ms="492" started-at="2015-04-15T14:17:42Z" finished-at="2015-04-15T14:17:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkPreviousLink()[pri:0, instance:tests.BlogPage@64c64813]" name="checkPreviousLink" duration-ms="16150" started-at="2015-04-15T14:17:43Z" finished-at="2015-04-15T14:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPreviousLink -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.BlogPage@64c64813]" name="quitBrowser" is-config="true" duration-ms="458" started-at="2015-04-15T14:17:59Z" finished-at="2015-04-15T14:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.BlogPage -->
+      <class name="tests.WhyTestPullDown">
+        <test-method status="PASS" signature="checkWhyTestPullDown_FAQ_FF()[pri:0, instance:tests.WhyTestPullDown@25618e91]" name="checkWhyTestPullDown_FAQ_FF" duration-ms="15688" started-at="2015-04-15T15:01:55Z" finished-at="2015-04-15T15:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhyTestPullDown_FAQ_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WhyTestPullDown@25618e91]" name="quitBrowser" is-config="true" duration-ms="446" started-at="2015-04-15T15:02:10Z" finished-at="2015-04-15T15:02:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWhyTestPullDown_WhyHire_FF()[pri:0, instance:tests.WhyTestPullDown@25618e91]" name="checkWhyTestPullDown_WhyHire_FF" duration-ms="15820" started-at="2015-04-15T15:02:11Z" finished-at="2015-04-15T15:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhyTestPullDown_WhyHire_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WhyTestPullDown@25618e91]" name="quitBrowser" is-config="true" duration-ms="410" started-at="2015-04-15T15:02:27Z" finished-at="2015-04-15T15:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWhyTestPullDown_WhyOutsource_FF()[pri:0, instance:tests.WhyTestPullDown@25618e91]" name="checkWhyTestPullDown_WhyOutsource_FF" duration-ms="15510" started-at="2015-04-15T15:02:27Z" finished-at="2015-04-15T15:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhyTestPullDown_WhyOutsource_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WhyTestPullDown@25618e91]" name="quitBrowser" is-config="true" duration-ms="501" started-at="2015-04-15T15:02:43Z" finished-at="2015-04-15T15:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWhyTestPulldown_Process_FF()[pri:0, instance:tests.WhyTestPullDown@25618e91]" name="checkWhyTestPulldown_Process_FF" duration-ms="15446" started-at="2015-04-15T15:02:43Z" finished-at="2015-04-15T15:02:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhyTestPulldown_Process_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WhyTestPullDown@25618e91]" name="quitBrowser" is-config="true" duration-ms="454" started-at="2015-04-15T15:02:58Z" finished-at="2015-04-15T15:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.WhyTestPullDown -->
+      <class name="tests.TheLabsPage">
+        <test-method status="PASS" signature="checkBreadCrumb()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="checkBreadCrumb" duration-ms="15481" started-at="2015-04-15T14:53:56Z" finished-at="2015-04-15T14:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="quitBrowser" is-config="true" duration-ms="450" started-at="2015-04-15T14:54:11Z" finished-at="2015-04-15T14:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkLaptopsButton()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="checkLaptopsButton" duration-ms="15663" started-at="2015-04-15T14:54:12Z" finished-at="2015-04-15T14:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLaptopsButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="quitBrowser" is-config="true" duration-ms="432" started-at="2015-04-15T14:54:27Z" finished-at="2015-04-15T14:54:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkMacSystemsButton()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="checkMacSystemsButton" duration-ms="15034" started-at="2015-04-15T14:54:28Z" finished-at="2015-04-15T14:54:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMacSystemsButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="quitBrowser" is-config="true" duration-ms="830" started-at="2015-04-15T14:54:43Z" finished-at="2015-04-15T14:54:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkMobileDevicesButton()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="checkMobileDevicesButton" duration-ms="15178" started-at="2015-04-15T14:54:44Z" finished-at="2015-04-15T14:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMobileDevicesButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="quitBrowser" is-config="true" duration-ms="431" started-at="2015-04-15T14:54:59Z" finished-at="2015-04-15T14:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkPCSystemsButton()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="checkPCSystemsButton" duration-ms="15465" started-at="2015-04-15T14:54:59Z" finished-at="2015-04-15T14:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPCSystemsButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="quitBrowser" is-config="true" duration-ms="435" started-at="2015-04-15T14:55:15Z" finished-at="2015-04-15T14:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkVideoCardButton()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="checkVideoCardButton" duration-ms="14909" started-at="2015-04-15T14:55:15Z" finished-at="2015-04-15T14:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVideoCardButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheLabsPage@1c53fd30]" name="quitBrowser" is-config="true" duration-ms="484" started-at="2015-04-15T14:55:30Z" finished-at="2015-04-15T14:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.TheLabsPage -->
+      <class name="tests.ServicesPage">
+        <test-method status="PASS" signature="testAccessibilityButton()[pri:0, instance:tests.ServicesPage@629f0666]" name="testAccessibilityButton" duration-ms="15464" started-at="2015-04-15T14:41:16Z" finished-at="2015-04-15T14:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAccessibilityButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPage@629f0666]" name="quitBrowser" is-config="true" duration-ms="431" started-at="2015-04-15T14:41:31Z" finished-at="2015-04-15T14:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="testAutomatedButton()[pri:0, instance:tests.ServicesPage@629f0666]" name="testAutomatedButton" duration-ms="16223" started-at="2015-04-15T14:41:32Z" finished-at="2015-04-15T14:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomatedButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPage@629f0666]" name="quitBrowser" is-config="true" duration-ms="440" started-at="2015-04-15T14:41:48Z" finished-at="2015-04-15T14:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="testBreadCrumbLink()[pri:0, instance:tests.ServicesPage@629f0666]" name="testBreadCrumbLink" duration-ms="15442" started-at="2015-04-15T14:41:48Z" finished-at="2015-04-15T14:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBreadCrumbLink -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPage@629f0666]" name="quitBrowser" is-config="true" duration-ms="440" started-at="2015-04-15T14:42:04Z" finished-at="2015-04-15T14:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="testCompatibilityButton()[pri:0, instance:tests.ServicesPage@629f0666]" name="testCompatibilityButton" duration-ms="15916" started-at="2015-04-15T14:42:04Z" finished-at="2015-04-15T14:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompatibilityButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPage@629f0666]" name="quitBrowser" is-config="true" duration-ms="428" started-at="2015-04-15T14:42:20Z" finished-at="2015-04-15T14:42:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="testFunctionalityButton()[pri:0, instance:tests.ServicesPage@629f0666]" name="testFunctionalityButton" duration-ms="15201" started-at="2015-04-15T14:42:21Z" finished-at="2015-04-15T14:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFunctionalityButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPage@629f0666]" name="quitBrowser" is-config="true" duration-ms="424" started-at="2015-04-15T14:42:36Z" finished-at="2015-04-15T14:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="testLoadPerformanceButton()[pri:0, instance:tests.ServicesPage@629f0666]" name="testLoadPerformanceButton" duration-ms="15858" started-at="2015-04-15T14:42:36Z" finished-at="2015-04-15T14:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoadPerformanceButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPage@629f0666]" name="quitBrowser" is-config="true" duration-ms="438" started-at="2015-04-15T14:42:52Z" finished-at="2015-04-15T14:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="testLocalizationButton()[pri:0, instance:tests.ServicesPage@629f0666]" name="testLocalizationButton" duration-ms="13303" started-at="2015-04-15T14:42:52Z" finished-at="2015-04-15T14:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLocalizationButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPage@629f0666]" name="quitBrowser" is-config="true" duration-ms="537" started-at="2015-04-15T14:43:06Z" finished-at="2015-04-15T14:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="testMobileDeviceButton()[pri:0, instance:tests.ServicesPage@629f0666]" name="testMobileDeviceButton" duration-ms="14653" started-at="2015-04-15T14:43:06Z" finished-at="2015-04-15T14:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileDeviceButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPage@629f0666]" name="quitBrowser" is-config="true" duration-ms="434" started-at="2015-04-15T14:43:21Z" finished-at="2015-04-15T14:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="testTestPlanButton()[pri:0, instance:tests.ServicesPage@629f0666]" name="testTestPlanButton" duration-ms="15162" started-at="2015-04-15T14:43:21Z" finished-at="2015-04-15T14:43:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTestPlanButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPage@629f0666]" name="quitBrowser" is-config="true" duration-ms="424" started-at="2015-04-15T14:43:37Z" finished-at="2015-04-15T14:43:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="testUsabilityButton()[pri:0, instance:tests.ServicesPage@629f0666]" name="testUsabilityButton" duration-ms="15987" started-at="2015-04-15T14:43:37Z" finished-at="2015-04-15T14:43:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsabilityButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPage@629f0666]" name="quitBrowser" is-config="true" duration-ms="426" started-at="2015-04-15T14:43:53Z" finished-at="2015-04-15T14:43:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="testWebsiteQAButton()[pri:0, instance:tests.ServicesPage@629f0666]" name="testWebsiteQAButton" duration-ms="15460" started-at="2015-04-15T14:43:53Z" finished-at="2015-04-15T14:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebsiteQAButton -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesPage@629f0666]" name="quitBrowser" is-config="true" duration-ms="429" started-at="2015-04-15T14:44:09Z" finished-at="2015-04-15T14:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.ServicesPage -->
+      <class name="tests.ContactPage">
+        <test-method status="PASS" signature="checkBreadCrumb()[pri:0, instance:tests.ContactPage@3ecf72fd]" name="checkBreadCrumb" duration-ms="15337" started-at="2015-04-15T14:21:51Z" finished-at="2015-04-15T14:22:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ContactPage@3ecf72fd]" name="quitBrowser" is-config="true" duration-ms="408" started-at="2015-04-15T14:22:07Z" finished-at="2015-04-15T14:22:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.ContactPage -->
+      <class name="tests.contactusBodyLink">
+        <test-method status="PASS" signature="checkContactUsBodyLinkFF()[pri:0, instance:tests.contactusBodyLink@483bf400]" name="checkContactUsBodyLinkFF" duration-ms="16979" started-at="2015-04-15T15:02:59Z" finished-at="2015-04-15T15:03:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContactUsBodyLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.contactusBodyLink@483bf400]" name="quitBrowser" is-config="true" duration-ms="453" started-at="2015-04-15T15:03:16Z" finished-at="2015-04-15T15:03:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.contactusBodyLink -->
+      <class name="tests.WhyTestHeaderLink">
+        <test-method status="PASS" signature="checkWhyTestHeaderLinkChrome()[pri:0, instance:tests.WhyTestHeaderLink@2be94b0f]" name="checkWhyTestHeaderLinkChrome" duration-ms="10418" started-at="2015-04-15T15:01:11Z" finished-at="2015-04-15T15:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhyTestHeaderLinkChrome -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WhyTestHeaderLink@2be94b0f]" name="quitBrowser" is-config="true" duration-ms="1237" started-at="2015-04-15T15:01:22Z" finished-at="2015-04-15T15:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWhyTestHeaderLinkFF()[pri:0, instance:tests.WhyTestHeaderLink@2be94b0f]" name="checkWhyTestHeaderLinkFF" duration-ms="14469" started-at="2015-04-15T15:01:23Z" finished-at="2015-04-15T15:01:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhyTestHeaderLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WhyTestHeaderLink@2be94b0f]" name="quitBrowser" is-config="true" duration-ms="413" started-at="2015-04-15T15:01:37Z" finished-at="2015-04-15T15:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.WhyTestHeaderLink -->
+      <class name="tests.BlogHeaderLink">
+        <test-method status="PASS" signature="checkBlogHeaderLinkChrome()[pri:0, instance:tests.BlogHeaderLink@d70c109]" name="checkBlogHeaderLinkChrome" duration-ms="10754" started-at="2015-04-15T14:16:16Z" finished-at="2015-04-15T14:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBlogHeaderLinkChrome -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.BlogHeaderLink@d70c109]" name="quitBrowser" is-config="true" duration-ms="1241" started-at="2015-04-15T14:16:27Z" finished-at="2015-04-15T14:16:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkBlogHeaderLinkFF()[pri:0, instance:tests.BlogHeaderLink@d70c109]" name="checkBlogHeaderLinkFF" duration-ms="15463" started-at="2015-04-15T14:16:28Z" finished-at="2015-04-15T14:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBlogHeaderLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.BlogHeaderLink@d70c109]" name="quitBrowser" is-config="true" duration-ms="473" started-at="2015-04-15T14:16:44Z" finished-at="2015-04-15T14:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.BlogHeaderLink -->
+      <class name="tests.CompanyPullDown">
+        <test-method status="PASS" signature="checkCompanyPullDown_Careers_FF()[pri:0, instance:tests.CompanyPullDown@7a92922]" name="checkCompanyPullDown_Careers_FF" duration-ms="15360" started-at="2015-04-15T14:19:16Z" finished-at="2015-04-15T14:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCompanyPullDown_Careers_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CompanyPullDown@7a92922]" name="quitBrowser" is-config="true" duration-ms="480" started-at="2015-04-15T14:19:31Z" finished-at="2015-04-15T14:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkCompanyPullDown_Team_FF()[pri:0, instance:tests.CompanyPullDown@7a92922]" name="checkCompanyPullDown_Team_FF" duration-ms="15610" started-at="2015-04-15T14:19:31Z" finished-at="2015-04-15T14:19:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCompanyPullDown_Team_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CompanyPullDown@7a92922]" name="quitBrowser" is-config="true" duration-ms="454" started-at="2015-04-15T14:19:47Z" finished-at="2015-04-15T14:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkCompanyPullDown_Testimonials_FF()[pri:0, instance:tests.CompanyPullDown@7a92922]" name="checkCompanyPullDown_Testimonials_FF" duration-ms="15337" started-at="2015-04-15T14:19:48Z" finished-at="2015-04-15T14:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCompanyPullDown_Testimonials_FF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CompanyPullDown@7a92922]" name="quitBrowser" is-config="true" duration-ms="467" started-at="2015-04-15T14:20:03Z" finished-at="2015-04-15T14:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.CompanyPullDown -->
+      <class name="tests.ServicesFooterLinks">
+        <test-method status="PASS" signature="checkAccesibilityFooterLinkFF()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="checkAccesibilityFooterLinkFF" duration-ms="15095" started-at="2015-04-15T14:37:59Z" finished-at="2015-04-15T14:38:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAccesibilityFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="quitBrowser" is-config="true" duration-ms="449" started-at="2015-04-15T14:38:14Z" finished-at="2015-04-15T14:38:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkAutomatedFooterLinkFF()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="checkAutomatedFooterLinkFF" duration-ms="16341" started-at="2015-04-15T14:38:15Z" finished-at="2015-04-15T14:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAutomatedFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="quitBrowser" is-config="true" duration-ms="447" started-at="2015-04-15T14:38:31Z" finished-at="2015-04-15T14:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkCompatibilityFooterLinkFF()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="checkCompatibilityFooterLinkFF" duration-ms="14699" started-at="2015-04-15T14:38:31Z" finished-at="2015-04-15T14:38:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCompatibilityFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="quitBrowser" is-config="true" duration-ms="443" started-at="2015-04-15T14:38:46Z" finished-at="2015-04-15T14:38:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkFunctionalityFooterLinkFF()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="checkFunctionalityFooterLinkFF" duration-ms="15164" started-at="2015-04-15T14:38:46Z" finished-at="2015-04-15T14:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFunctionalityFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="quitBrowser" is-config="true" duration-ms="511" started-at="2015-04-15T14:39:02Z" finished-at="2015-04-15T14:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkLoadPerformanceFooterLinkFF()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="checkLoadPerformanceFooterLinkFF" duration-ms="15439" started-at="2015-04-15T14:39:02Z" finished-at="2015-04-15T14:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoadPerformanceFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="quitBrowser" is-config="true" duration-ms="568" started-at="2015-04-15T14:39:18Z" finished-at="2015-04-15T14:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkLocalizationFooterLinkFF()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="checkLocalizationFooterLinkFF" duration-ms="16841" started-at="2015-04-15T14:39:18Z" finished-at="2015-04-15T14:39:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLocalizationFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="quitBrowser" is-config="true" duration-ms="477" started-at="2015-04-15T14:39:35Z" finished-at="2015-04-15T14:39:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkMobileDeviceServicesFooterLinkFF()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="checkMobileDeviceServicesFooterLinkFF" duration-ms="21975" started-at="2015-04-15T14:39:35Z" finished-at="2015-04-15T14:39:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMobileDeviceServicesFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="quitBrowser" is-config="true" duration-ms="448" started-at="2015-04-15T14:39:57Z" finished-at="2015-04-15T14:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTestPlanWritingFooterLinkFF()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="checkTestPlanWritingFooterLinkFF" duration-ms="15886" started-at="2015-04-15T14:39:58Z" finished-at="2015-04-15T14:40:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestPlanWritingFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="quitBrowser" is-config="true" duration-ms="457" started-at="2015-04-15T14:40:14Z" finished-at="2015-04-15T14:40:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkUsabilityFooterLinkFF()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="checkUsabilityFooterLinkFF" duration-ms="18364" started-at="2015-04-15T14:40:14Z" finished-at="2015-04-15T14:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUsabilityFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="quitBrowser" is-config="true" duration-ms="455" started-at="2015-04-15T14:40:33Z" finished-at="2015-04-15T14:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWebsiteFooterLinkFF()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="checkWebsiteFooterLinkFF" duration-ms="14673" started-at="2015-04-15T14:40:33Z" finished-at="2015-04-15T14:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWebsiteFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ServicesFooterLinks@2cfb4a64]" name="quitBrowser" is-config="true" duration-ms="454" started-at="2015-04-15T14:40:48Z" finished-at="2015-04-15T14:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.ServicesFooterLinks -->
+      <class name="tests.PrivacyPolicy">
+        <test-method status="PASS" signature="checkPrivacyPolicyFooterLinkChrome()[pri:0, instance:tests.PrivacyPolicy@71f2a7d5]" name="checkPrivacyPolicyFooterLinkChrome" duration-ms="10786" started-at="2015-04-15T14:35:28Z" finished-at="2015-04-15T14:35:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPrivacyPolicyFooterLinkChrome -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.PrivacyPolicy@71f2a7d5]" name="quitBrowser" is-config="true" duration-ms="1234" started-at="2015-04-15T14:35:39Z" finished-at="2015-04-15T14:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkPrivacyPolicyFooterLinkFF()[pri:0, instance:tests.PrivacyPolicy@71f2a7d5]" name="checkPrivacyPolicyFooterLinkFF" duration-ms="15154" started-at="2015-04-15T14:35:40Z" finished-at="2015-04-15T14:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPrivacyPolicyFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.PrivacyPolicy@71f2a7d5]" name="quitBrowser" is-config="true" duration-ms="442" started-at="2015-04-15T14:35:56Z" finished-at="2015-04-15T14:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.PrivacyPolicy -->
+      <class name="tests.VideoCardsLabPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.VideoCardsLabPage@591f989e]" name="checkBBBreadCrumb" duration-ms="15212" started-at="2015-04-15T14:58:32Z" finished-at="2015-04-15T14:58:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.VideoCardsLabPage@591f989e]" name="quitBrowser" is-config="true" duration-ms="438" started-at="2015-04-15T14:58:47Z" finished-at="2015-04-15T14:58:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsBreadCrumb()[pri:0, instance:tests.VideoCardsLabPage@591f989e]" name="checkTheLabsBreadCrumb" duration-ms="13988" started-at="2015-04-15T14:58:48Z" finished-at="2015-04-15T14:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.VideoCardsLabPage@591f989e]" name="quitBrowser" is-config="true" duration-ms="486" started-at="2015-04-15T14:59:02Z" finished-at="2015-04-15T14:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.VideoCardsLabPage -->
+      <class name="tests.TestPlanWritingPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.TestPlanWritingPage@6979e8cb]" name="checkBBBreadCrumb" duration-ms="14503" started-at="2015-04-15T14:48:31Z" finished-at="2015-04-15T14:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TestPlanWritingPage@6979e8cb]" name="quitBrowser" is-config="true" duration-ms="533" started-at="2015-04-15T14:48:46Z" finished-at="2015-04-15T14:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesBreadCrumb()[pri:0, instance:tests.TestPlanWritingPage@6979e8cb]" name="checkServicesBreadCrumb" duration-ms="15031" started-at="2015-04-15T14:48:46Z" finished-at="2015-04-15T14:49:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TestPlanWritingPage@6979e8cb]" name="quitBrowser" is-config="true" duration-ms="423" started-at="2015-04-15T14:49:01Z" finished-at="2015-04-15T14:49:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTestPlanWritingPurposeAndMethod()[pri:0, instance:tests.TestPlanWritingPage@6979e8cb]" name="checkTestPlanWritingPurposeAndMethod" duration-ms="15919" started-at="2015-04-15T14:49:02Z" finished-at="2015-04-15T14:49:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestPlanWritingPurposeAndMethod -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TestPlanWritingPage@6979e8cb]" name="quitBrowser" is-config="true" duration-ms="432" started-at="2015-04-15T14:49:18Z" finished-at="2015-04-15T14:49:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTestPlanWritingTestingBreadCrumb()[pri:0, instance:tests.TestPlanWritingPage@6979e8cb]" name="checkTestPlanWritingTestingBreadCrumb" duration-ms="14935" started-at="2015-04-15T14:49:18Z" finished-at="2015-04-15T14:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestPlanWritingTestingBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TestPlanWritingPage@6979e8cb]" name="quitBrowser" is-config="true" duration-ms="429" started-at="2015-04-15T14:49:33Z" finished-at="2015-04-15T14:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.TestPlanWritingPage -->
+      <class name="tests.LoadPerformanceTestingPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.LoadPerformanceTestingPage@2d6a9952]" name="checkBBBreadCrumb" duration-ms="15518" started-at="2015-04-15T14:28:25Z" finished-at="2015-04-15T14:28:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LoadPerformanceTestingPage@2d6a9952]" name="quitBrowser" is-config="true" duration-ms="453" started-at="2015-04-15T14:28:40Z" finished-at="2015-04-15T14:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkLoadPerformanceBreadCrumb()[pri:0, instance:tests.LoadPerformanceTestingPage@2d6a9952]" name="checkLoadPerformanceBreadCrumb" duration-ms="15293" started-at="2015-04-15T14:28:41Z" finished-at="2015-04-15T14:28:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoadPerformanceBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LoadPerformanceTestingPage@2d6a9952]" name="quitBrowser" is-config="true" duration-ms="433" started-at="2015-04-15T14:28:56Z" finished-at="2015-04-15T14:28:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkLoadPerformancePurposeAndMethod()[pri:0, instance:tests.LoadPerformanceTestingPage@2d6a9952]" name="checkLoadPerformancePurposeAndMethod" duration-ms="15118" started-at="2015-04-15T14:28:56Z" finished-at="2015-04-15T14:29:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoadPerformancePurposeAndMethod -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LoadPerformanceTestingPage@2d6a9952]" name="quitBrowser" is-config="true" duration-ms="519" started-at="2015-04-15T14:29:12Z" finished-at="2015-04-15T14:29:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesBreadCrumb()[pri:0, instance:tests.LoadPerformanceTestingPage@2d6a9952]" name="checkServicesBreadCrumb" duration-ms="15205" started-at="2015-04-15T14:29:12Z" finished-at="2015-04-15T14:29:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LoadPerformanceTestingPage@2d6a9952]" name="quitBrowser" is-config="true" duration-ms="432" started-at="2015-04-15T14:29:27Z" finished-at="2015-04-15T14:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.LoadPerformanceTestingPage -->
+      <class name="tests.TheProcessPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.TheProcessPage@2ac1fdc4]" name="checkBBBreadCrumb" duration-ms="16297" started-at="2015-04-15T14:56:51Z" finished-at="2015-04-15T14:57:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheProcessPage@2ac1fdc4]" name="quitBrowser" is-config="true" duration-ms="453" started-at="2015-04-15T14:57:08Z" finished-at="2015-04-15T14:57:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWhyTestBreadCrumb()[pri:0, instance:tests.TheProcessPage@2ac1fdc4]" name="checkWhyTestBreadCrumb" duration-ms="18507" started-at="2015-04-15T14:57:08Z" finished-at="2015-04-15T14:57:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhyTestBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheProcessPage@2ac1fdc4]" name="quitBrowser" is-config="true" duration-ms="390" started-at="2015-04-15T14:57:27Z" finished-at="2015-04-15T14:57:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.TheProcessPage -->
+      <class name="tests.WhyOutsource">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.WhyOutsource@61443d8f]" name="checkBBBreadCrumb" duration-ms="14824" started-at="2015-04-15T15:00:41Z" finished-at="2015-04-15T15:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WhyOutsource@61443d8f]" name="quitBrowser" is-config="true" duration-ms="451" started-at="2015-04-15T15:00:55Z" finished-at="2015-04-15T15:00:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWhyTestBreadCrumb()[pri:0, instance:tests.WhyOutsource@61443d8f]" name="checkWhyTestBreadCrumb" duration-ms="14862" started-at="2015-04-15T15:00:56Z" finished-at="2015-04-15T15:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhyTestBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WhyOutsource@61443d8f]" name="quitBrowser" is-config="true" duration-ms="442" started-at="2015-04-15T15:01:11Z" finished-at="2015-04-15T15:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.WhyOutsource -->
+      <class name="tests.UsabilityTestingPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.UsabilityTestingPage@47d384ee]" name="checkBBBreadCrumb" duration-ms="15889" started-at="2015-04-15T14:57:27Z" finished-at="2015-04-15T14:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.UsabilityTestingPage@47d384ee]" name="quitBrowser" is-config="true" duration-ms="471" started-at="2015-04-15T14:57:43Z" finished-at="2015-04-15T14:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkServicesBreadCrumb()[pri:0, instance:tests.UsabilityTestingPage@47d384ee]" name="checkServicesBreadCrumb" duration-ms="15358" started-at="2015-04-15T14:57:43Z" finished-at="2015-04-15T14:57:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicesBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.UsabilityTestingPage@47d384ee]" name="quitBrowser" is-config="true" duration-ms="388" started-at="2015-04-15T14:57:59Z" finished-at="2015-04-15T14:57:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkUsabilityPurposeAndMethod()[pri:0, instance:tests.UsabilityTestingPage@47d384ee]" name="checkUsabilityPurposeAndMethod" duration-ms="15546" started-at="2015-04-15T14:57:59Z" finished-at="2015-04-15T14:58:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUsabilityPurposeAndMethod -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.UsabilityTestingPage@47d384ee]" name="quitBrowser" is-config="true" duration-ms="436" started-at="2015-04-15T14:58:15Z" finished-at="2015-04-15T14:58:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkUsabilityTestingBreadCrumb()[pri:0, instance:tests.UsabilityTestingPage@47d384ee]" name="checkUsabilityTestingBreadCrumb" duration-ms="16544" started-at="2015-04-15T14:58:15Z" finished-at="2015-04-15T14:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUsabilityTestingBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.UsabilityTestingPage@47d384ee]" name="quitBrowser" is-config="true" duration-ms="462" started-at="2015-04-15T14:58:32Z" finished-at="2015-04-15T14:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.UsabilityTestingPage -->
+      <class name="tests.LaptopLabPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.LaptopLabPage@5474c6c]" name="checkBBBreadCrumb" duration-ms="14866" started-at="2015-04-15T14:27:54Z" finished-at="2015-04-15T14:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LaptopLabPage@5474c6c]" name="quitBrowser" is-config="true" duration-ms="531" started-at="2015-04-15T14:28:09Z" finished-at="2015-04-15T14:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsBreadCrumb()[pri:0, instance:tests.LaptopLabPage@5474c6c]" name="checkTheLabsBreadCrumb" duration-ms="15183" started-at="2015-04-15T14:28:09Z" finished-at="2015-04-15T14:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LaptopLabPage@5474c6c]" name="quitBrowser" is-config="true" duration-ms="473" started-at="2015-04-15T14:28:24Z" finished-at="2015-04-15T14:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.LaptopLabPage -->
+      <class name="tests.WhyHireBB">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.WhyHireBB@445b84c0]" name="checkBBBreadCrumb" duration-ms="16581" started-at="2015-04-15T15:00:08Z" finished-at="2015-04-15T15:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WhyHireBB@445b84c0]" name="quitBrowser" is-config="true" duration-ms="516" started-at="2015-04-15T15:00:25Z" finished-at="2015-04-15T15:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkWhyTestBreadCrumb()[pri:0, instance:tests.WhyHireBB@445b84c0]" name="checkWhyTestBreadCrumb" duration-ms="14934" started-at="2015-04-15T15:00:25Z" finished-at="2015-04-15T15:00:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhyTestBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WhyHireBB@445b84c0]" name="quitBrowser" is-config="true" duration-ms="429" started-at="2015-04-15T15:00:40Z" finished-at="2015-04-15T15:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.WhyHireBB -->
+      <class name="tests.TheCompany">
+        <test-method status="PASS" signature="checkBBTeamFooterLinkFF()[pri:0, instance:tests.TheCompany@2fc14f68]" name="checkBBTeamFooterLinkFF" duration-ms="14734" started-at="2015-04-15T14:51:05Z" finished-at="2015-04-15T14:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBTeamFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheCompany@2fc14f68]" name="quitBrowser" is-config="true" duration-ms="457" started-at="2015-04-15T14:51:20Z" finished-at="2015-04-15T14:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkCareersFooterLinkFF()[pri:0, instance:tests.TheCompany@2fc14f68]" name="checkCareersFooterLinkFF" duration-ms="15065" started-at="2015-04-15T14:51:20Z" finished-at="2015-04-15T14:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCareersFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheCompany@2fc14f68]" name="quitBrowser" is-config="true" duration-ms="409" started-at="2015-04-15T14:51:36Z" finished-at="2015-04-15T14:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkSitemapFooterLinkFF()[pri:0, instance:tests.TheCompany@2fc14f68]" name="checkSitemapFooterLinkFF" duration-ms="15516" started-at="2015-04-15T14:51:36Z" finished-at="2015-04-15T14:51:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSitemapFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheCompany@2fc14f68]" name="quitBrowser" is-config="true" duration-ms="414" started-at="2015-04-15T14:51:51Z" finished-at="2015-04-15T14:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTestimonialsFooterLinkFF()[pri:0, instance:tests.TheCompany@2fc14f68]" name="checkTestimonialsFooterLinkFF" duration-ms="15280" started-at="2015-04-15T14:51:52Z" finished-at="2015-04-15T14:52:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestimonialsFooterLinkFF -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.TheCompany@2fc14f68]" name="quitBrowser" is-config="true" duration-ms="428" started-at="2015-04-15T14:52:07Z" finished-at="2015-04-15T14:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.TheCompany -->
+      <class name="tests.WhyTestPage">
+        <test-method status="PASS" signature="checkBreadCrumbLink()[pri:0, instance:tests.WhyTestPage@50675690]" name="checkBreadCrumbLink" duration-ms="15823" started-at="2015-04-15T15:01:38Z" finished-at="2015-04-15T15:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBreadCrumbLink -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.WhyTestPage@50675690]" name="quitBrowser" is-config="true" duration-ms="1115" started-at="2015-04-15T15:01:54Z" finished-at="2015-04-15T15:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.WhyTestPage -->
+      <class name="tests.CareerCompanyPage">
+        <test-method status="PASS" signature="checkBBBreadCrumb()[pri:0, instance:tests.CareerCompanyPage@66048bfd]" name="checkBBBreadCrumb" duration-ms="14916" started-at="2015-04-15T14:18:00Z" finished-at="2015-04-15T14:18:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBBBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CareerCompanyPage@66048bfd]" name="quitBrowser" is-config="true" duration-ms="518" started-at="2015-04-15T14:18:14Z" finished-at="2015-04-15T14:18:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="checkTheLabsBreadCrumb()[pri:0, instance:tests.CareerCompanyPage@66048bfd]" name="checkTheLabsBreadCrumb" duration-ms="14640" started-at="2015-04-15T14:18:15Z" finished-at="2015-04-15T14:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLabsBreadCrumb -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.CareerCompanyPage@66048bfd]" name="quitBrowser" is-config="true" duration-ms="528" started-at="2015-04-15T14:18:30Z" finished-at="2015-04-15T14:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.CareerCompanyPage -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
